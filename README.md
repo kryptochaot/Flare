@@ -2,6 +2,8 @@
 
 Flare is a next-generation blockchain which enables smart contracts with multiple non-Turing complete assets that settle on their native chain.
 
+Forked from Flare Network: https://gitlab.com/flarenetwork/flare
+
 ## Features
 
 - Federated Byzantine Agreement based Avalanche consensus. Control over the Flare network is proportionally given to the miners that contribute the most to the safety of underlying blockchains on Flare, weighted by market cap.
